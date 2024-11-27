@@ -1,0 +1,6 @@
+towel.png
+size:732,484
+filter:Linear,Linear
+pma:true
+towel
+bounds:2,2,725,477

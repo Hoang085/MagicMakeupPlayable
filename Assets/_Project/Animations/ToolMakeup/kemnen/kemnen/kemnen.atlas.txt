@@ -1,0 +1,16 @@
+kemnen.png
+size:1184,160
+filter:Linear,Linear
+pma:true
+kemnen1
+bounds:2,2,153,362
+rotate:90
+kemnen1_2
+bounds:1094,55,100,87
+rotate:90
+kemnen2
+bounds:366,2,153,362
+rotate:90
+kemnen3
+bounds:730,2,153,362
+rotate:90

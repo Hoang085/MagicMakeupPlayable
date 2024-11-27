@@ -1,0 +1,49 @@
+{
+"skeleton": {
+	"hash": "fSis6De90Cg",
+	"spine": "4.1.24",
+	"x": -157.5,
+	"y": -157.5,
+	"width": 315,
+	"height": 315,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" }
+],
+"slots": [
+	{ "name": "mut_rua_mat", "bone": "bone", "attachment": "mut" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"mut_rua_mat": {
+				"mut": { "width": 315, "height": 315 }
+			}
+		}
+	}
+],
+"animations": {
+	"Idle": {
+		"bones": {
+			"bone": {
+				"translate": [
+					{
+						"curve": [ 0.088, 0, 0.212, 0, 0.088, 0, 0.212, 25.29 ]
+					},
+					{
+						"time": 0.3,
+						"y": 25.29,
+						"curve": [ 0.4, 0, 0.5, 0, 0.4, 25.29, 0.5, 0 ]
+					},
+					{ "time": 0.6 }
+				]
+			}
+		}
+	},
+	"Init": {}
+}
+}

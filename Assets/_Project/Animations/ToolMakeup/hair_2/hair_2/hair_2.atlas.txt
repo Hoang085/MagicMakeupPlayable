@@ -1,0 +1,6 @@
+hair_2.png
+size:100,100
+filter:Linear,Linear
+pma:true
+acne_big_hair1
+bounds:2,2,29,93

@@ -1,0 +1,6 @@
+co_kemay.png
+size:40,556
+filter:Linear,Linear
+pma:true
+co_kemay
+bounds:2,2,35,550

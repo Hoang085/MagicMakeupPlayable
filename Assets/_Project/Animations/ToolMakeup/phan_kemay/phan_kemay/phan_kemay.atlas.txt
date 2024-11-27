@@ -1,0 +1,8 @@
+phan_kemay.png
+size:444,224
+filter:Linear,Linear
+pma:true
+phan_ke_may
+bounds:2,2,219,219
+phan_ke_may_2
+bounds:223,3,218,218

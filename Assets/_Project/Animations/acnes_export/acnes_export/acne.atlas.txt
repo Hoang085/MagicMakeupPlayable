@@ -1,0 +1,35 @@
+acne.png
+size:176,176
+filter:Linear,Linear
+pma:true
+Layer 1 copy 2
+bounds:90,81,39,50
+rotate:90
+Layer 10
+bounds:144,115,15,11
+Layer 2
+bounds:88,69,10,10
+Layer 3
+bounds:144,144,16,13
+Layer 4
+bounds:144,159,16,15
+Layer 5
+bounds:162,159,15,12
+rotate:90
+Layer 6
+bounds:161,117,13,11
+Layer 7
+bounds:162,144,13,12
+rotate:90
+Layer 8
+bounds:161,130,12,13
+rotate:90
+Layer 9
+bounds:144,128,15,14
+acne_1
+bounds:2,90,86,84
+acne_1_2
+bounds:2,2,86,84
+rotate:90
+acne_large
+bounds:90,122,52,52

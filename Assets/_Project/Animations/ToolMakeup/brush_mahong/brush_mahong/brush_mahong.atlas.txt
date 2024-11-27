@@ -1,0 +1,6 @@
+brush_mahong.png
+size:716,716
+filter:Linear,Linear
+pma:true
+co_mahong
+bounds:2,2,193,711

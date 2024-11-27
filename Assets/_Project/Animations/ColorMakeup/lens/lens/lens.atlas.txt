@@ -1,0 +1,10 @@
+lens.png
+size:560,148
+filter:Linear,Linear
+pma:true
+len_case
+bounds:2,2,292,141
+len_case1
+bounds:296,11,130,132
+len_case2
+bounds:428,11,130,132

@@ -1,0 +1,12 @@
+lipstick.png
+size:368,76
+filter:Linear,Linear
+pma:true
+lipstick
+bounds:2,3,70,216
+rotate:90
+lipstick - Copy
+bounds:305,2,59,71
+lipstick2
+bounds:220,24,49,83
+rotate:90

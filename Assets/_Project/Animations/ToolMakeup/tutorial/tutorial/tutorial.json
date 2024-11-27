@@ -1,0 +1,53 @@
+{
+"skeleton": {
+	"hash": "dcGI2tEWq4k",
+	"spine": "4.1.24",
+	"x": -307.5,
+	"y": -287.36,
+	"width": 615,
+	"height": 345.86,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" },
+	{ "name": "hand_tuto", "parent": "bone", "x": -134.32, "y": -276.42, "scaleX": 0.4, "scaleY": 0.4 }
+],
+"slots": [
+	{ "name": "tuto1", "bone": "bone", "attachment": "tuto1" },
+	{ "name": "hand_tuto", "bone": "hand_tuto", "attachment": "hand_tuto" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"hand_tuto": {
+				"hand_tuto": { "x": -154.99, "y": 345.66, "width": 449, "height": 746 }
+			},
+			"tuto1": {
+				"tuto1": { "width": 615, "height": 117 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"hand_tuto": {
+				"translate": [
+					{
+						"curve": [ 0.145, 0, 0.489, 541.84, 0.145, 0, 0.489, 0 ]
+					},
+					{
+						"time": 0.6333,
+						"x": 541.84,
+						"curve": [ 0.822, 541.84, 1.011, 0, 0.822, 0, 0.936, -362.99 ]
+					},
+					{ "time": 1.2 }
+				]
+			}
+		}
+	}
+}
+}

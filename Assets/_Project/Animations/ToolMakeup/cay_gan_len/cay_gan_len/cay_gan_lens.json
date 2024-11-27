@@ -1,0 +1,44 @@
+{
+"skeleton": {
+	"hash": "Q6sUaTPS0xQ",
+	"spine": "4.1.24",
+	"x": -28.5,
+	"y": -149.5,
+	"width": 57,
+	"height": 299,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "y": -142.74 }
+],
+"slots": [
+	{ "name": "cay_gan_lens", "bone": "bone", "attachment": "cay_gan_lens" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"cay_gan_lens": {
+				"cay_gan_lens": { "y": 142.74, "width": 57, "height": 299 }
+			}
+		}
+	}
+],
+"animations": {
+	"Begin": {
+		"bones": {
+			"bone": {
+				"scale": [
+					{ "time": 0.1667 },
+					{ "time": 0.3, "y": 0.943, "curve": "stepped" },
+					{ "time": 0.6, "y": 0.943 },
+					{ "time": 0.7667 }
+				]
+			}
+		}
+	},
+	"Idle": {}
+}
+}

@@ -1,0 +1,11 @@
+twizeer.png
+size:600,700
+filter:Linear,Linear
+pma:true
+scale:0.6
+Layer 2
+bounds:284,25,671,313
+rotate:90
+Layer 3
+bounds:2,2,694,280
+rotate:90

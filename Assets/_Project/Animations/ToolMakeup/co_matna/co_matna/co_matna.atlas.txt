@@ -1,0 +1,6 @@
+co_matna.png
+size:172,652
+filter:Linear,Linear
+pma:true
+co
+bounds:2,2,166,647

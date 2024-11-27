@@ -1,0 +1,28 @@
+acne_hair_1.png
+size:192,192
+filter:Linear,Linear
+pma:true
+Layer 1 copy 2
+bounds:2,28,39,50
+Layer 10
+bounds:20,15,15,11
+Layer 2
+bounds:134,89,10,10
+Layer 3
+bounds:2,13,16,13
+Layer 4
+bounds:99,84,16,15
+Layer 5
+bounds:117,87,15,12
+Layer 6
+bounds:20,2,13,11
+Layer 7
+bounds:43,50,13,12
+Layer 8
+bounds:60,65,12,13
+Layer 9
+bounds:43,64,15,14
+acne_big
+bounds:2,80,95,110
+acne_large
+bounds:99,101,89,89

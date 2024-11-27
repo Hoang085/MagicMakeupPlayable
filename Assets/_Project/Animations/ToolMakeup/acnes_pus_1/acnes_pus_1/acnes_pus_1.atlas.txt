@@ -1,0 +1,10 @@
+acnes_pus_1.png
+size:144,144
+filter:Linear,Linear
+pma:true
+acne_big
+bounds:2,29,95,110
+acne_pus_1
+bounds:99,81,40,58
+acne_small
+bounds:99,50,29,29

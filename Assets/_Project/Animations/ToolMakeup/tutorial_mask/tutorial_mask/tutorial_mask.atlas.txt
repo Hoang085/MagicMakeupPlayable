@@ -1,0 +1,8 @@
+tutorial_mask.png
+size:752,752
+filter:Linear,Linear
+pma:true
+hand_tuto
+bounds:2,2,449,746
+tutor_lotmatna1
+bounds:453,536,166,212

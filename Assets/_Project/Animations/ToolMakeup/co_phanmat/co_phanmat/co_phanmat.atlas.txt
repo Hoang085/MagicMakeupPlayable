@@ -1,0 +1,6 @@
+co_phanmat.png
+size:48,444
+filter:Linear,Linear
+pma:true
+co_phanmat1
+bounds:2,2,43,437

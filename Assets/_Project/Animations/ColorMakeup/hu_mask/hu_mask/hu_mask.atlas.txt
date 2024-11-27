@@ -1,0 +1,10 @@
+hu_mask.png
+size:544,296
+filter:Linear,Linear
+pma:true
+hu_matna_datset
+bounds:2,2,290,295
+rotate:90
+hu_matna_datset2
+bounds:299,51,241,240
+rotate:90

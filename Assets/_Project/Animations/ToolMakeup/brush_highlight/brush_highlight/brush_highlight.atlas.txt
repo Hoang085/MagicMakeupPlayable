@@ -1,0 +1,6 @@
+brush_highlight.png
+size:904,904
+filter:Linear,Linear
+pma:true
+co_highlight
+bounds:2,2,229,898

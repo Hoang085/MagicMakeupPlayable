@@ -1,0 +1,56 @@
+{
+"skeleton": {
+	"hash": "5gojebRu2zs",
+	"spine": "4.1.24",
+	"x": -71.59,
+	"y": -389.65,
+	"width": 218.64,
+	"height": 480.96,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" },
+	{ "name": "hand_tuto", "parent": "bone", "x": 119.24, "y": -378.72, "scaleX": 0.4, "scaleY": 0.4 }
+],
+"slots": [
+	{ "name": "tutor_lotmatna1", "bone": "bone", "attachment": "tutor_lotmatna1" },
+	{ "name": "hand_tuto", "bone": "hand_tuto", "attachment": "hand_tuto" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"hand_tuto": {
+				"hand_tuto": { "x": -154.99, "y": 345.66, "width": 449, "height": 746 }
+			},
+			"tutor_lotmatna1": {
+				"tutor_lotmatna1": { "x": 11.41, "y": -14.69, "width": 166, "height": 212 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"hand_tuto": {
+				"translate": [
+					{
+						"curve": [ 0.354, -124.68, 0.422, 108.82, 0.211, 0, 0.422, 173.03 ]
+					},
+					{ "time": 0.6333, "x": 108.82, "y": 173.03, "curve": "stepped" },
+					{
+						"time": 0.7333,
+						"x": 108.82,
+						"y": 173.03,
+						"curve": [ 0.922, 108.82, 1.082, 16.71, 0.922, 173.03, 1.082, 26.56 ]
+					},
+					{ "time": 1.2, "curve": "stepped" },
+					{ "time": 1.3 }
+				]
+			}
+		}
+	}
+}
+}

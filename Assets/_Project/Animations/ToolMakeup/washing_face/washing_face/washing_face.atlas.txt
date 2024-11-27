@@ -1,0 +1,6 @@
+washing_face.png
+size:808,808
+filter:Linear,Linear
+pma:true
+hand
+bounds:2,2,484,801

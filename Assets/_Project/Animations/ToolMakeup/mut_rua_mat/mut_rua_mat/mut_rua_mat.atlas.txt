@@ -1,0 +1,6 @@
+mut_rua_mat.png
+size:320,320
+filter:Linear,Linear
+pma:true
+mut
+bounds:2,2,315,315

@@ -1,0 +1,8 @@
+hand_zoom.png
+size:328,212
+filter:Linear,Linear
+pma:true
+Layer 2
+bounds:2,2,231,208
+Layer 5
+bounds:235,97,88,113

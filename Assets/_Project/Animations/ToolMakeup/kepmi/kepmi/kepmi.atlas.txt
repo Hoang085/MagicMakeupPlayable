@@ -1,0 +1,8 @@
+kepmi.png
+size:496,496
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:2,2,170,489
+Layer 2
+bounds:174,170,175,321

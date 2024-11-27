@@ -1,0 +1,6 @@
+cay_nan_mun.png
+size:484,484
+filter:Linear,Linear
+pma:true
+cay
+bounds:2,2,20,477

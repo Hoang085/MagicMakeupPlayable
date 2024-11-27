@@ -1,0 +1,8 @@
+keo_longmui.png
+size:272,272
+filter:Linear,Linear
+pma:true
+keo_longmui_1
+bounds:2,29,137,241
+keo_longmui_2
+bounds:141,30,129,240

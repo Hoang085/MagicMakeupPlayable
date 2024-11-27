@@ -1,0 +1,10 @@
+sua_ruamat.png
+size:564,180
+filter:Linear,Linear
+pma:true
+sua_rua_mat1
+bounds:2,2,176,493
+rotate:90
+sua_rua_mat2
+bounds:497,71,107,62
+rotate:90

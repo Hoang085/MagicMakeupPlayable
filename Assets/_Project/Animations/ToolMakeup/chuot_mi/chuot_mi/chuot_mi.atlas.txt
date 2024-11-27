@@ -1,0 +1,12 @@
+chuot_mi.png
+size:128,408
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:2,65,65,339
+cm1
+bounds:69,2,36,249
+cm2
+bounds:69,253,57,151
+dau
+bounds:2,13,65,50

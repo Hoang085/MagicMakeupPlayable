@@ -1,0 +1,6 @@
+bong_trangdiem.png
+size:276,276
+filter:Linear,Linear
+pma:true
+bong
+bounds:2,2,269,269

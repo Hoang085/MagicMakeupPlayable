@@ -1,0 +1,288 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5900900819236307592
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1028917950146046537}
+  - component: {fileID: 1355192925951606267}
+  m_Layer: 0
+  m_Name: Makeover Controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1028917950146046537
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5900900819236307592}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3207675116839818515}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1355192925951606267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5900900819236307592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91a1eef0d8e98bb45ac5cf036c75421d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameStartEvent: {fileID: 0}
+  areaUpgradeSteps:
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 0
+    iconUIType: 0
+    isSelectionStep: 0
+    completeStepDataCollection: {fileID: 11400000, guid: faba8be137a8d2a4da5215c35f467e3c,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 0
+    iconUIType: 1
+    isSelectionStep: 0
+    completeStepDataCollection: {fileID: 0}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 1
+    iconUIType: 2
+    isSelectionStep: 0
+    completeStepDataCollection: {fileID: 0}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 1
+    iconUIType: 3
+    isSelectionStep: 0
+    completeStepDataCollection: {fileID: 0}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 2
+    iconUIType: 4
+    isSelectionStep: 0
+    completeStepDataCollection: {fileID: 11400000, guid: faba8be137a8d2a4da5215c35f467e3c,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 2
+    iconUIType: 5
+    isSelectionStep: 0
+    completeStepDataCollection: {fileID: 0}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 2
+    iconUIType: 6
+    isSelectionStep: 0
+    completeStepDataCollection: {fileID: 0}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 2
+    iconUIType: 7
+    isSelectionStep: 0
+    completeStepDataCollection: {fileID: 11400000, guid: faba8be137a8d2a4da5215c35f467e3c,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 2
+    iconUIType: 8
+    isSelectionStep: 0
+    completeStepDataCollection: {fileID: 11400000, guid: faba8be137a8d2a4da5215c35f467e3c,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 3
+    iconUIType: 9
+    isSelectionStep: 0
+    completeStepDataCollection: {fileID: 0}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 4
+    iconUIType: 11
+    isSelectionStep: 1
+    completeStepDataCollection: {fileID: 11400000, guid: 29b97564ce71eb244889564aad2bc2d6,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 4
+    iconUIType: 10
+    isSelectionStep: 1
+    completeStepDataCollection: {fileID: 11400000, guid: 6cab24f74275b604b957aea2da93706b,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 4
+    iconUIType: 14
+    isSelectionStep: 1
+    completeStepDataCollection: {fileID: 11400000, guid: 2cc27387e77967846b0995fd1efc4db9,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 4
+    iconUIType: 12
+    isSelectionStep: 1
+    completeStepDataCollection: {fileID: 11400000, guid: 06544f11154b595448e22fc3ba785277,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 4
+    iconUIType: 13
+    isSelectionStep: 0
+    completeStepDataCollection: {fileID: 11400000, guid: 06544f11154b595448e22fc3ba785277,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 4
+    iconUIType: 15
+    isSelectionStep: 1
+    completeStepDataCollection: {fileID: 11400000, guid: 932eb3b3104e4b243bd75f0b42301d9a,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 5
+    iconUIType: 17
+    isSelectionStep: 1
+    completeStepDataCollection: {fileID: 11400000, guid: 87b60a4e09637694bb045340e5f8f6a8,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 5
+    iconUIType: 16
+    isSelectionStep: 0
+    completeStepDataCollection: {fileID: 11400000, guid: 87b60a4e09637694bb045340e5f8f6a8,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 6
+    iconUIType: 18
+    isSelectionStep: 1
+    completeStepDataCollection: {fileID: 11400000, guid: 353ba2aa11967374d986dd5fb1fa405d,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 7
+    iconUIType: 19
+    isSelectionStep: 1
+    completeStepDataCollection: {fileID: 11400000, guid: 2b44e45a8b8b9fa40bb0ca64d5a6e657,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 8
+    iconUIType: 20
+    isSelectionStep: 1
+    completeStepDataCollection: {fileID: 11400000, guid: 3396d819ae4fb96488cc5de64ff00d1e,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 9
+    iconUIType: 22
+    isSelectionStep: 1
+    completeStepDataCollection: {fileID: 11400000, guid: faba8be137a8d2a4da5215c35f467e3c,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 10
+    iconUIType: 21
+    isSelectionStep: 1
+    completeStepDataCollection: {fileID: 11400000, guid: 25877dcef6e889c4495f2a9927f23d72,
+      type: 2}
+  - areaUpgradeStep: {fileID: 0}
+    phraseType: 11
+    iconUIType: 23
+    isSelectionStep: 1
+    completeStepDataCollection: {fileID: 11400000, guid: 2849329a3c047f546a05ad7988b8b1a3,
+      type: 2}
+  currentPhraseDatas: []
+  currentBonusCoinData: {fileID: 0}
+  bannerAdVariable: {fileID: 11400000, guid: 46fc363fb14ea9741a05bf4fc5750a64, type: 2}
+  showSelectGroupEvent: {fileID: 11400000, guid: 2f0dc1b871504a345b7b0103d6ac1c37,
+    type: 2}
+  doneSelected: {fileID: 11400000, guid: 2cd1dac752f0bfa4bb6c8b85f7af668c, type: 2}
+  nextStepEvent: {fileID: 11400000, guid: 5e8edd03930fb384697477d98d8a92c8, type: 2}
+  setupUINextPhraseEvent: {fileID: 11400000, guid: 2777c061930769948aecaa4b742f6a90,
+    type: 2}
+  isDebugging: {fileID: 11400000, guid: d7eb04288f3f94c0d8523b23c6adcb25, type: 2}
+  showGroupUIEvent: {fileID: 11400000, guid: 9d44ae93f990ad44ca8860538443c556, type: 2}
+  fxDoneStep: {fileID: 2304390339966857408}
+  callShowNextPhrase: {fileID: 11400000, guid: 57ca9c00bc82b0649ae091ab99d754f0, type: 2}
+  playSfxEvent: {fileID: 11400000, guid: f8b47f732f214a74ea2758c176b166be, type: 2}
+  soundStepDone: {fileID: 11400000, guid: 4a3861f236c1da34cb841d7f5423d494, type: 2}
+  iconPhraseDataCollection: {fileID: 11400000, guid: cd3e9bde4757fb44488cc25c2f708e78,
+    type: 2}
+  eventShowEndScene: {fileID: 11400000, guid: 0a9fe8dc79a4a804d874b58add36c5ab, type: 2}
+  hideGroupEvent: {fileID: 11400000, guid: 6ac5ae53ae4bb3e4b827537ef001eded, type: 2}
+  playEyeAnim: {fileID: 11400000, guid: 88572da3946e51341839fe65220346b1, type: 2}
+  parentPath: 
+--- !u!1001 &171892038724274550
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1028917950146046537}
+    m_Modifications:
+    - target: {fileID: 3378083862771407973, guid: 5c1cf46194960ce48acf5f1014cb3be5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378083862771407973, guid: 5c1cf46194960ce48acf5f1014cb3be5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378083862771407973, guid: 5c1cf46194960ce48acf5f1014cb3be5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378083862771407973, guid: 5c1cf46194960ce48acf5f1014cb3be5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378083862771407973, guid: 5c1cf46194960ce48acf5f1014cb3be5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378083862771407973, guid: 5c1cf46194960ce48acf5f1014cb3be5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378083862771407973, guid: 5c1cf46194960ce48acf5f1014cb3be5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378083862771407973, guid: 5c1cf46194960ce48acf5f1014cb3be5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378083862771407973, guid: 5c1cf46194960ce48acf5f1014cb3be5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3378083862771407973, guid: 5c1cf46194960ce48acf5f1014cb3be5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024530408982171932, guid: 5c1cf46194960ce48acf5f1014cb3be5,
+        type: 3}
+      propertyPath: m_Name
+      value: fx_StepDone
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5c1cf46194960ce48acf5f1014cb3be5, type: 3}
+--- !u!198 &2304390339966857408 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 2132586537130408374, guid: 5c1cf46194960ce48acf5f1014cb3be5,
+    type: 3}
+  m_PrefabInstance: {fileID: 171892038724274550}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &3207675116839818515 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3378083862771407973, guid: 5c1cf46194960ce48acf5f1014cb3be5,
+    type: 3}
+  m_PrefabInstance: {fileID: 171892038724274550}
+  m_PrefabAsset: {fileID: 0}

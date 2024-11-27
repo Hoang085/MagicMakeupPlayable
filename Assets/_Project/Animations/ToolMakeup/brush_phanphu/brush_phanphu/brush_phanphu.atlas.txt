@@ -1,0 +1,6 @@
+brush_phanphu.png
+size:792,792
+filter:Linear,Linear
+pma:true
+co_phanphu
+bounds:2,2,223,785

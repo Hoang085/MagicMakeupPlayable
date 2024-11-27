@@ -1,0 +1,25 @@
+powder_box.png
+size:1088,1088
+filter:Linear,Linear
+pma:true
+cushion1
+bounds:344,743,341,374
+rotate:90
+cushion1 - Copy
+bounds:2,272,341,374
+rotate:90
+cushion2
+bounds:720,757,327,326
+rotate:90
+mahong
+bounds:272,2,268,268
+mahong - Copy
+bounds:2,2,268,268
+mahong2
+bounds:542,2,268,268
+phanphu1
+bounds:378,272,340,469
+phanphu1 - Copy
+bounds:2,615,340,469
+phanphu2
+bounds:720,428,326,327

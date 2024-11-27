@@ -1,0 +1,10 @@
+kemat.png
+size:628,44
+filter:Linear,Linear
+pma:true
+kemat1
+bounds:140,2,40,485
+rotate:90
+kemat2
+bounds:2,3,39,136
+rotate:90

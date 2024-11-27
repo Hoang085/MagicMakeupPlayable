@@ -1,0 +1,6 @@
+cay_gan_lens.png
+size:64,304
+filter:Linear,Linear
+pma:true
+cay_gan_lens
+bounds:2,2,57,299
