@@ -2,6 +2,15 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+
+# Jetbrain Rider Cache
+.idea/
+Assets/Plugins/Editor/JetBrains*
+
+# Visual Studio Code
+.vscode/
+
+### Unity ###
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -70,3 +79,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+.collabignore
+Assets/SpriteAtlas/spine-unity-3.8-2021-11-10.unitypackage.meta
+Assets/SpriteAtlas/Tile/spine-unity-3.8-2021-11-10.unitypackage.meta
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
